@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: lightgrey;
+}
+.container {
+  width: 800px;
+  margin: auto;
+  background-color: white;
+}
+
+.header {
+  padding: 20px;
+  /* background-color: aqua; */
+}
+
+.judul {
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.konten {
+  margin-top: 10px;
+}
+.konten img {
+  width: 200px;
+  float: left;
+}
+
+.konten p {
+  width: 540px;
+  height: 290px;
+  margin-left: 20px;
+  float: left;
+  /* background-color: aqua; */
+  text-align: justify;
+}
+
+/* KONTEN 2 */
+.konten2 {
+  padding: 20px;
+}
+
+.judul2 {
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.bm {
+  display: block;
+  justify-content: center;
+}
+
+.bm1 {
+  margin-top: 10px;
+  margin-left: 125px;
+  width: 500px;
+}
+
+.bm p {
+  width: 500px;
+  /* background-color: aqua; */
+  margin-left: 125px;
+  text-align: justify;
+}
+
+.fixed {
+  clear: both;
+}
